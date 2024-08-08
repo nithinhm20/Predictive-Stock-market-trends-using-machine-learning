@@ -9,5 +9,18 @@ This project demonstrates a simple machine learning model to predict stock marke
 ## Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/stock-market-prediction.git
+```bash
+git clone https://github.com/nithinhm20/Predictive-Stock-market-trends-using-machine-learning.git
+```
+
+#Navigate to project directory
+
+```bash
+cd stock-market-prediction
+```
+
+#Install the required dependencies
+
+```bash
+pip install -r requirements.txt
+```
