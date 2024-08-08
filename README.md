@@ -13,13 +13,13 @@ This project demonstrates a simple machine learning model to predict stock marke
 git clone https://github.com/nithinhm20/Predictive-Stock-market-trends-using-machine-learning.git
 ```
 
-#Navigate to project directory
+##Navigate to project directory
 
 ```bash
 cd stock-market-prediction
 ```
 
-#Install the required dependencies
+##Install the required dependencies
 
 ```bash
 pip install -r requirements.txt
